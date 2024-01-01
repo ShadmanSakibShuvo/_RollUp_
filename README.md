@@ -11,3 +11,5 @@ ___Features___
 3. Players have to avoid obstacles maneuvering the ball with designated keys.<br>
 4. With time speed will increase
 </div>
+
+<h6><i>Inspired from : Original game "Ninja Up"(https://www.youtube.com/watch?v=dhVJtcLXjCI)</i></h6>
